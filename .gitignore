@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+obj/
+x64/
+x86/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.log
+
+# Generated reports (keep folder, ignore contents)
+reports/*
+!reports/.gitkeep
